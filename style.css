@@ -70,8 +70,8 @@ body{
 }
 
 .name-content  .btn{
-    background-color: #404040;
-    color: #f5637c;
+    background-color: #f5637c;
+    color: #fff;
     outline: none;
     border: 2px solid;
     border-radius: 5px;
